@@ -6,7 +6,7 @@ Project ini dibuat untuk menganalisis tren produksi padi di Indonesia periode ta
 
 - **`README.md`** - Penjelasan gambaran umum project.
 - **`panen_padi.ipynb`** - Notebook untuk mengolah data.
-- **`Luas_Panen_Produksi_dan_Produktivitas_Padi_Menurut_Provinsi_Cleaned`** - Cleaned Dataset.
+- **`Luas_Panen_Produksi_dan_Produktivitas_Padi_Menurut_Provinsi_Cleaned.xlsx`** - Cleaned Dataset.
 
 ## Latar Belakang
 Beras merupakan salah satu penganan pokok bagi masyarakat Indonesia. Penurunan produksi beras akan menyebabkan kenaikan dari harga jual beras dan setiap terjadi kenaikan harga beras, hampir selalu ditemui dengan adanya penolakan dari masyrakat Indonesia. 
