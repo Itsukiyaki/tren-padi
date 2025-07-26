@@ -29,7 +29,7 @@ Dashboard ini dibuat untuk menyajikan data secara **jelas**, **interaktif**, dan
 ---
 
 ## Sumber Data
-Dataset: [bps.go.id](https://www.bps.go.id/id/statistics-table/3/ZDNaak0yODBUVTlGYW5sa2REUkVUVVY1YVZkbmR6MDkjMyMwMDAw/produksi-padi-sup-1--sup--dan-beras-menurut-provinsi.html?year=2024)
+Dataset: [bps.go.id](https://www.bps.go.id/id/statistics-table/3/WmpaNk1YbGFjR0pOUjBKYWFIQlBSU3MwVHpOVWR6MDkjMyMwMDAw/luas-panen--produktivitas--dan-produksi-padi-menurut-provinsi.html?year=2024)
 
 ## Fitur Dashboard
 
