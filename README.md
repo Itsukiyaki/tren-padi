@@ -20,11 +20,11 @@ Dashboard ini dibuat untuk menyajikan data secara **jelas**, **interaktif**, dan
 
 ## Alat yang Digunakan
 
-| Alat           | Kegunaan                                      |
-|----------------|-----------------------------------------------|
-| Tableau        | Visualisasi data dan pembuatan dashboard      |
-| Microsoft Excel | Data Preprocessing                           |
-| BPS (bps.go.id) | Sumber data resmi                            |
+| Alat            | Kegunaan                                      |
+|-----------------|-----------------------------------------------|
+| Tableau         | Visualisasi data dan pembuatan dashboard      |
+| Microsoft Excel | Data Preprocessing                            |
+| BPS (bps.go.id) | Sumber data resmi                             |
 
 ---
 
@@ -52,3 +52,4 @@ Dataset: [bps.go.id](https://www.bps.go.id/id/statistics-table/3/WmpaNk1YbGFjR0p
 - Provinsi seperti **Jawa Timur**, **Jawa Tengah**, dan **Jawa Barat** secara konsisten menjadi penyumbang terbesar dalam produksi dan luas panen.
 - Produksi padi cenderung lebih tinggi di provinsi dengan infrastruktur pertanian yang lebih maju.
 - Perbandingan antar tahun dapat menunjukkan pengaruh cuaca, kebijakan, atau perubahan pasar terhadap produksi.
+
